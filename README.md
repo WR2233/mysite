@@ -5,7 +5,7 @@
     <title>Profile</title>
 </head>
 <body>
-    <h1>あなたの氏名 (例: Taro Yamada)</h1>
-    <p>Email: あなたのメールアドレス (例: taro.yamada@example.com)</p>
+    <h1>Ryuhei WAKUDA</h1>
+    <p>Email: wakuda02@g.ecc.u-tokyo.ac.jp</p>
 </body>
 </html>
